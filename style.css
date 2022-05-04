@@ -14,8 +14,9 @@ body {
 }
 
 h1 {
-  color: black;
-  border: 5px solid blue;
+
+  color: yellow;
+  border: 5px solid brown;
   font-size: 10em;
   border-radius: 15px;
   padding: 1em;
