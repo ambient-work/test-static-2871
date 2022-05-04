@@ -6,9 +6,10 @@
 
 body {
   margin: 0;
-  background-color: aquamarine;
+  background-color: darkolivegreen;
 }
 
 h1 {
-  color: violet;
+  color: purple;
+  border: 2px solid teal;
 }
